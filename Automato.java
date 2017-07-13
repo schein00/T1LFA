@@ -28,13 +28,15 @@ public class Automato{
 		    lineRead.skip(tamanhoArquivo);
 		    // conta o numero de linhas do arquivo, começa com zero, por isso adiciona 1
 		    count = lineRead.getLineNumber();
-			
+			System.out.println(count);
 			linhas  = new String[count];
-			
 			while(conteudo.hasNext()){
-				linhas[i] = conteudo.nextLine();
+				String g = conteudo.nextLine();
+			//	System.out.println("add a linha: "+ i + "  info: "+g);
+				linhas[i] = g;
 				i++;
 			}
+			
 			b.build(linhas, count);
 			
 		
