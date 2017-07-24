@@ -1,7 +1,5 @@
 se
-senao 
-vai
-se
-foder
-<S> ::= a<A> | b<A> 
-<A> ::= a<A> | b<A> | #
+entao
+senao
+<S> ::= a<A> | e<A> | i<A> | o<A> | u<A>
+<A> ::= a<A> | e<A> | i<A> | o<A> | u<A> | #

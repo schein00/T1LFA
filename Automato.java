@@ -12,6 +12,9 @@ public class Automato{
 		String linhas[];
 		Builder b = new Builder();
 
+		
+		// aqui é feita a leitura do arquivo de entrada, e gravados num vetor de String cada linha do arquivo
+		// posteriormente é enviado para a funcao que ira criar e AFD
 		try{
 			arquivo = new File(args[0]);
 			conteudo = new Scanner(arquivo);

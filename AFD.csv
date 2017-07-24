@@ -1,0 +1,14 @@
+ |s | e | n | t | a | o | i | u
+S0 | S14 | S16 |  X |  X | S13 | S13 | S13 | S13 | 
+S4 |  X |  X |  X | S5 |  X |  X |  X |  X | 
+S5 |  X |  X |  X |  X | S6 |  X |  X |  X | 
+S6 |  X |  X |  X |  X |  X | S7 |  X |  X | 
+*S7 |  X |  X |  X |  X |  X | S7 |  X |  X | 
+S10 |  X |  X |  X |  X | S11 |  X |  X |  X | 
+S11 |  X |  X |  X |  X |  X | S12 |  X |  X | 
+*S12 |  X |  X |  X |  X |  X | S12 |  X |  X | 
+*S13 |  X | S13 |  X |  X | S13 | S13 | S13 | S13 | 
+S14 |  X | S15 |  X |  X |  X |  X |  X |  X | 
+*S15 |  X | S15 | S10 |  X |  X |  X |  X |  X | 
+S16 |  X |  X | S4 |  X |  X |  X |  X | S13 | 
+*X | X | X | X | X | X | X | X | X |
